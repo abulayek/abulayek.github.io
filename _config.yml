@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Git Home: Md. Abu Layek"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Md. Abu Layek"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
