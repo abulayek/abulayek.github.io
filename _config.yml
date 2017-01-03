@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Md. Abu Layek"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an average person"
+  location         : "Suwon, Korea"
+  email            : "abulayek@yahoo.com"
   uri              :
   bitbucket        :
   codepen          :
